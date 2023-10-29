@@ -2,3 +2,7 @@ hi my first line
 
 
 git new line
+.
+
+
+.
